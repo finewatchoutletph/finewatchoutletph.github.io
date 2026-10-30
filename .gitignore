@@ -1,0 +1,9 @@
+# Private working files — stay on the computer, never uploaded to GitHub
+*.pdf
+CLAUDE.md
+images/order-watch.jpg
+publish-website.bat
+
+# Windows system files
+Thumbs.db
+desktop.ini
